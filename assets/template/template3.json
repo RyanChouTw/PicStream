@@ -1,0 +1,14 @@
+{
+	"num_images" : 1,
+	"images" : [
+		{
+			"position" : {
+				"x_coord" : 16,
+				"y_coord" : 16				
+			},
+			"rotate" : 0,
+			"width" : 688,
+			"height" : 1048
+		}
+	]
+}

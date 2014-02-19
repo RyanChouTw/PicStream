@@ -1,0 +1,19 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="paddingMainActivityButton">8dp</dimen>
+    <dimen name="fb_button_margin">12dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="staggered_gird_margin">4dp</dimen>
+    <dimen name="hor_list_margin">12dp</dimen>
+    <dimen name="image_editor_margin">12dp</dimen>
+    <dimen name="image_editor_item_border">4dp</dimen>
+    <dimen name="paddingTopCirclePageIndicator">4dp</dimen>
+    <dimen name="paddingBottomCirclePageIndicator">4dp</dimen>
+    <dimen name="cover_image_width">156dp</dimen>
+    <dimen name="cover_image_height">156dp</dimen>
+    <dimen name="cover_image_horizontal_margin">36dp</dimen>
+    <dimen name="cover_image_vertical_margin">12dp</dimen>
+    <dimen name="picstream_list_item_spacing">4dp</dimen>
+    <dimen name="picstream_list_item_margin">4dp</dimen>    
+</resources>

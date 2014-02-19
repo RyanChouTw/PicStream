@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="ID_ACTION_NEXT" type="id"/>
+    <item name="ID_ACTION_SAVE" type="id"/>
+    <item name="ID_ACTION_EDIT" type="id"/>
+    <item name="ID_ACTION_ADD" type="id"/>
+    <item name="ID_ACTION_DONE" type="id"/>
+</resources>

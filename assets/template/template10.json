@@ -1,0 +1,24 @@
+{
+	"background_image" : "background2.png",
+	"num_images" : 2,
+	"images" : [
+		{
+			"position" : {
+				"x_coord" : 0,
+				"y_coord" : 0				
+			},
+			"rotate" : 0,
+			"width" : 720,
+			"height" : 748
+		},
+		{
+			"position" : {
+				"x_coord" : 51,
+				"y_coord" : 704				
+			},
+			"rotate" : 0,
+			"width" : 298,
+			"height" : 312
+		}
+	]
+}

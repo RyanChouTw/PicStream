@@ -1,0 +1,33 @@
+{
+	"background_image" : "background3.png",
+	"num_images" : 3,
+	"images" : [
+		{
+			"position" : {
+				"x_coord" : 249,
+				"y_coord" : 0				
+			},
+			"rotate" : 0,
+			"width" : 474,
+			"height" : 1080
+		},
+		{
+			"position" : {
+				"x_coord" : 45,
+				"y_coord" : 214				
+			},
+			"rotate" : 0,
+			"width" : 254,
+			"height" : 254
+		},
+		{
+			"position" : {
+				"x_coord" : 112,
+				"y_coord" : 438				
+			},
+			"rotate" : 0,
+			"width" : 254,
+			"height" : 254
+		}
+	]
+}

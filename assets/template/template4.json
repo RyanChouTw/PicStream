@@ -1,0 +1,23 @@
+{
+	"num_images" : 2,
+	"images" : [
+		{
+			"position" : {
+				"x_coord" : 16,
+				"y_coord" : 169				
+			},
+			"rotate" : 0,
+			"width" : 651,
+			"height" : 423
+		},
+		{
+			"position" : {
+				"x_coord" : 16,
+				"y_coord" : 608				
+			},
+			"rotate" : 0,
+			"width" : 688,
+			"height" : 457
+		}
+	]
+}

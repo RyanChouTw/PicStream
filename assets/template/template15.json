@@ -1,0 +1,24 @@
+{
+	"background_frame" : "frame4",
+	"num_images" : 2,
+	"images" : [
+		{
+			"position" : {
+				"x_coord" : 0,
+				"y_coord" : 0				
+			},
+			"rotate" : 0,
+			"width" : 602,
+			"height" : 812
+		},
+		{
+			"position" : {
+				"x_coord" : 356,
+				"y_coord" : 662				
+			},
+			"rotate" : -10,
+			"width" : 428,
+			"height" : 428
+		}
+	]
+}

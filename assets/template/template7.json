@@ -1,0 +1,41 @@
+{
+	"num_images" : 4,
+	"images" : [
+		{
+			"position" : {
+				"x_coord" : 0,
+				"y_coord" : 0				
+			},
+			"rotate" : 0,
+			"width" : 360,
+			"height" : 540
+		},
+		{
+			"position" : {
+				"x_coord" : 360,
+				"y_coord" : 0				
+			},
+			"rotate" : 0,
+			"width" : 360,
+			"height" : 540
+		},
+		{
+			"position" : {
+				"x_coord" : 0,
+				"y_coord" : 540				
+			},
+			"rotate" : 0,
+			"width" : 360,
+			"height" : 540
+		},
+		{
+			"position" : {
+				"x_coord" : 360,
+				"y_coord" : 540				
+			},
+			"rotate" : 0,
+			"width" : 360,
+			"height" : 540
+		}		
+	]
+}

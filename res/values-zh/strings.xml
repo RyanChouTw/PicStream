@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">數位時光</string>
+    <string name="new_picture_stream">建立新回憶</string>
+    <string name="picture_stream_list">回憶列表</string>    
+    <string name="action_settings">設置</string>
+    <string name="next">下一步</string>
+    <string name="edit">編輯</string>
+    <string name="save">儲存</string>
+    <string name="add">增加</string>
+    <string name="done">完成</string>
+    <string name="warning_no_image_selected">請至少選擇一張圖片</string>
+    <string name="warning_picstream_saved_to">成功存檔至:</string>
+    <string name="warning_empty_name">名稱不能為空</string>
+    <string name="name">名稱</string>
+    <string name="description">描述</string>    
+</resources>

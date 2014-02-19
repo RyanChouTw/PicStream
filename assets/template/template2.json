@@ -1,0 +1,42 @@
+{
+	"background_image" : "background1.png",
+	"num_images" : 4,
+	"images" : [
+		{
+			"position" : {
+				"x_coord" : 283,
+				"y_coord" : 34				
+			},
+			"rotate" : 0,
+			"width" : 405,
+			"height" : 360
+		},
+		{
+			"position" : {
+				"x_coord" : 109,
+				"y_coord" : 407				
+			},
+			"rotate" : 0,
+			"width" : 282,
+			"height" : 270
+		},
+		{
+			"position" : {
+				"x_coord" : 405,
+				"y_coord" : 407				
+			},
+			"rotate" : 0,
+			"width" : 281,
+			"height" : 270
+		},
+		{
+			"position" : {
+				"x_coord" : 284,
+				"y_coord" : 691				
+			},
+			"rotate" : 0,
+			"width" : 405,
+			"height" : 360
+		}		
+	]
+}
